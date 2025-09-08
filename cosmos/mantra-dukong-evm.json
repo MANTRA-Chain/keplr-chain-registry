@@ -1,5 +1,6 @@
 {
   "chainId": "mantra-dukong-evm-1",
+  "shadowChainIdOf": "mantra-dukong-1",
   "chainName": "MANTRA Dukong Testnet",
   "chainSymbolImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/mantra-dukong/chain.png",
   "rpc": "https://rpc.dukong.mantrachain.io",
